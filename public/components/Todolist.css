@@ -1,0 +1,49 @@
+.todo-list {
+    font-family: Arial, sans-serif;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.todo-list ol {
+    padding-left: 0;
+}
+
+.todo-list li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.task-input,
+.task-text {
+    flex: 2;
+    color:#686D76;
+}
+
+.task-input {
+    
+    margin-right: 10px;
+    padding: 5px;
+    font-size: 2px; /* Increase the font size */
+    width: 100%;
+}
+.btn {
+    cursor: pointer;
+    font-size: 22px;
+    margin-right: 4px;
+}
+
+.edit-btn {
+    background-color: #4793AF;
+    color: #fff;
+}
+
+.save-btn {
+    background-color: #9ADE7B;
+    color: #fff;
+}
+
+.delete-btn {
+    background-color: #BE3144;
+    color: #fff;
+}

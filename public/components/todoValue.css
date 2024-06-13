@@ -1,0 +1,29 @@
+.input{
+    font-size: 1.7rem;
+    border-radius: 10px;
+    margin-right: 2rem;
+}
+
+button{
+    font-size: 1.7rem;
+    border-radius: 10px;
+
+}
+
+h1{
+    font-family:fantasy;
+    word-spacing: 5px;
+    display: grid;
+    justify-content: center;
+    
+}
+
+.add-btn{
+    background-color: #03AED2;
+    display: flex;
+}
+
+.todo-value {
+    font-family: 'Roboto', sans-serif; /* Use the Roboto font */
+}
+
